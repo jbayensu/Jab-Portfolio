@@ -17,7 +17,7 @@ export default function AppFooter(){
                 </Col>
                 <Col sm={6} className='text-center text-sm-end'>
                     <div className="social-icon">
-                        <a href="https://www.twitter.com"><img src={navIcon1} alt="twitter link"/></a>
+                        <a href="https://www.linkedin.com/in/john-ayensu-b88570135/"><img src={navIcon1} alt="linkedin link"/></a>
                         <a href="https://www.facebook.com"><img src={navIcon2} alt="facebook link"/></a>
                         <a href="https://www.instagram.com"><img src={navIcon3} alt="instagram link"/></a>
                     </div>

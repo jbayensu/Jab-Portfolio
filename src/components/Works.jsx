@@ -24,7 +24,7 @@ export default function AppWorks(){
 
     return(
         <section id='works' className='block works-block'>
-            <Container>
+            <Container fluid>
                 <div className='title-holder'>
                     <h2>My Works</h2>
                     <div className='subtitle'>

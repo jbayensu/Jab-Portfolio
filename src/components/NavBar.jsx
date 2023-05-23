@@ -30,7 +30,7 @@ export default function AppNavBar(){
 
     return(
         <Navbar expand="lg" className={scrolled? 'scrolled': ''}>
-            <Container>
+            <Container fluid>
                 <Navbar.Brand href="#home" className="white">
                     <span className="nav-brand">JAB</span>
                 </Navbar.Brand>

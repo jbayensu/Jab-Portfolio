@@ -10,8 +10,8 @@ export default [
     id: 2,
     link: 'https://main--zesty-puffpuff-a24722.netlify.app/#home',
     image: 'images/img4.jpg',
-    title: 'Appreciation',
-    subtitle: 'Photography'
+    title: 'My portfolio',
+    subtitle: 'Web Design with React and Bootstrap'
   },
   {
     id: 3,

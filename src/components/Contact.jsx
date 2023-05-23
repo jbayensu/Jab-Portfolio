@@ -32,7 +32,7 @@ export default function AppContact(){
     
     return(
         <section className="contact" id="contact">
-            <Container>
+            <Container fluid>
                 <Row className="align-items-center">
                     <Col sm={6}>
                         <img src={contactImg} alt="Contact Us"/>

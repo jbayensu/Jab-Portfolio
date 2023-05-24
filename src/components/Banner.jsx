@@ -45,7 +45,7 @@ export default function AppBanner(){
 
     return(
         <section className="banner" id='home'>
-            <Container fluid>
+            <Container>
                 <Row className='align-items-center'>
                     <Col xs={12} md={6} xl={7}>
                         <span className='tagline'>Welcome to my Portfolio</span>
@@ -62,7 +62,7 @@ export default function AppBanner(){
                             I build accessible, inclusive products and digital experiences for the web, Apps and Desktop.
                             
                         </p>
-                        <button onClick={()=> console.log('connect')}>Let's Connect<ArrowRightCircle size={25} /></button>
+                        {/*<button onClick={()=> console.log('connect')}>Let's Connect<ArrowRightCircle size={25} /></button>*/}
                     </Col>
                     <Col xs={12} md={6} xl={5}>
                         <img src={headerImg} alt='Header img' />

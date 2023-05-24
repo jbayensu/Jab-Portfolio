@@ -16,8 +16,6 @@ box-sizing: border-box;
   max-height: 1000000px;
 }
 
-
-
 body {
   overflow-x: hidden;
   position: relative;
@@ -709,7 +707,6 @@ textarea {
     height: 50px;
 }
 
-
 }
   
 
@@ -827,8 +824,6 @@ textarea {
     .experiences-block blockquote p {
       margin: 0;
     }
-  
-    
   
     .contact-block {
       padding: 40px 0 20px;

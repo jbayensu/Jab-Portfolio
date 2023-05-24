@@ -9,7 +9,7 @@ import navIcon3 from '../assets/img/nav-icon3.svg'
 
 export default function AppFooter(){
     return(
-        <Container fluid>
+        <Container>
             
             <Row className='copyright'> 
                 <Col sm={6}>

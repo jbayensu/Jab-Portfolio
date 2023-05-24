@@ -19,7 +19,7 @@ export default function AppExperiences(){
     return(
         <section id='experience' className='block experiences-block'>
             
-            <Container fluid>
+            <Container>
                 <div className='title-holder'>
                     <h2>My Experiences</h2>
                     <div className='subtitle'>

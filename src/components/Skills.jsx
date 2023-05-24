@@ -14,7 +14,7 @@ export default function AppSkills(){
     const reac = 40
     return(
         <section id="skills" className='block skill-block'>
-            <Container fluid>
+            <Container>
                 <div className='title-holder'>
                     <h2>Skills</h2>
                     <div className='subtitle'>My Skills</div>

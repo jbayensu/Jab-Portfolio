@@ -6,7 +6,7 @@ import AppBanner from './components/Banner'
 import AppSkills from './components/Skills'
 import AppExperiences from './components/Experiences'
 import AppWorks from './components/Works'
-import AppContact from './components/Contact'
+{/*import AppContact from './components/Contact'*/}
 import AppFooter from './components/Footer'
 
 
@@ -23,7 +23,7 @@ function App() {
         <AppSkills />
         <AppExperiences />
         <AppWorks />
-        <AppContact />
+        {/*<AppContact />*/}
       </main>
       <footer className='footer'>
         <AppFooter />

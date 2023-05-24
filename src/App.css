@@ -95,7 +95,10 @@ input:focus, textarea:focus, select:focus {
   outline: none;
 }
 main{
+  margin: auto;
   padding: auto;
+  width: 90%;
+  align-items: center;
 }
 
 @media (min-width:1700px) {

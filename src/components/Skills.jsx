@@ -3,7 +3,7 @@ import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Image from 'react-bootstrap/Image'
 import ProgressBar from 'react-bootstrap/ProgressBar';
-import img1 from '../assets/images/img1.jpg'
+import img1 from '../assets/img/Me2.png'
 
 export default function AppSkills(){
     const html = 40

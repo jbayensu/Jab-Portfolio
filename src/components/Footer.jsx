@@ -21,6 +21,8 @@ export default function AppFooter(){
                         <a href="https://www.facebook.com"><img src={navIcon2} alt="facebook link"/></a>
                         <a href="https://www.instagram.com"><img src={navIcon3} alt="instagram link"/></a>
                     </div>
+                    <p><i class="fa fa-mail"></i> johnbayensu@gmail.com</p>
+                    <p><i class="fa fa-phone" aria-hidden="true"> 0243742166</i></p>
                     <p>&copy; 2023. All Right Reserved</p>
                 </Col>
             </Row>

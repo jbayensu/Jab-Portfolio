@@ -2,7 +2,7 @@ import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row'
 import Col from 'react-bootstrap/Col'
 import { ArrowRightCircle } from 'react-bootstrap-icons';
-import headerImg from '../assets/img/20230408_120242.jpg'
+import headerImg from '../assets/img/Me1.png'
 import { useState, useEffect } from 'react';
 
 

@@ -50,10 +50,10 @@ export default [
   },
   {
     id: 8,
-    link: 'https://github.com/jbayensu/Android-EtollCollector-app',
-    image: 'images/img8.jpg',
-    title: 'Etoll Collector App',
-    subtitle: 'Android App - Java'
+    link: 'https://github.com/jbayensu/React_Demo_Travel_Journal/tree/main',
+    image: 'images/travel-demo.jpg',
+    title: 'Travel - Demo Diary ',
+    subtitle: 'Web App - React'
   },
   {
     id: 9,

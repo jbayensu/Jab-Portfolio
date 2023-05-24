@@ -33,7 +33,7 @@ body {
 
 .block {
     margin-top: 0px;
-    padding: 150px 0 100px 0;
+    padding: 100px 0 100px 0;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -421,7 +421,7 @@ padding-top: 5px;
 
 
 .experiences-block {
-    padding: 150px 0 100px 0;
+    padding: 100px 0 100px 0;
     background-position: 50% 0;
     position: relative;
     color: #fff;

@@ -68,8 +68,8 @@ export default function AppNavBar(){
                 </Nav>
                 <span className='navbar-text'>
                     <div className='social-icon'>
-                        <a href="https://www.linkedin.com/in/john-ayensu-b88570135/"><img src={navIcon1} alt=""/></a>
-                        <a href="#"><img src={navIcon2} alt=""/></a>
+                        <a href="https://www.linkedin.com/in/john-ayensu-b88570135/" target="_blank"><img src={navIcon1} alt="linkedin link"/></a>
+                        <a href="https://web.facebook.com/profile.php?id=100092664832885" target="_blank"><img src={navIcon2} alt="facebook link"/></a>
                         <a href="#"><img src={navIcon3} alt=""/></a>
                     </div>
                     <div>

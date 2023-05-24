@@ -97,8 +97,7 @@ input:focus, textarea:focus, select:focus {
 main{
   margin: auto;
   padding: auto;
-  width: 90%;
-  align-items: center;
+  width: 85%;
 }
 
 @media (min-width:1700px) {
@@ -296,7 +295,7 @@ margin: 0 0 0 5px;
 /************ Banner Css ************/
 .banner {
   margin-top: 0;
-  padding: 260px 0 100px 0;
+  padding: 200px 0 100px 0;
 }
 .banner .tagline {
   font-weight: 700;

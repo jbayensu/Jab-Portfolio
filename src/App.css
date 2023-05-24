@@ -94,6 +94,9 @@ button {
 input:focus, textarea:focus, select:focus {
   outline: none;
 }
+main{
+  padding: auto;
+}
 
 @media (min-width:1700px) {
 	main .container {
